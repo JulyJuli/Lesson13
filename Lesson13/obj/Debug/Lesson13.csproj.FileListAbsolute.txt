@@ -1,0 +1,6 @@
+C:\Users\Anna\Desktop\Lesson13\Lesson13\Lesson13\obj\Debug\Lesson13.csprojAssemblyReference.cache
+C:\Users\Anna\Desktop\Lesson13\Lesson13\Lesson13\bin\Debug\Lesson13.exe.config
+C:\Users\Anna\Desktop\Lesson13\Lesson13\Lesson13\bin\Debug\Lesson13.exe
+C:\Users\Anna\Desktop\Lesson13\Lesson13\Lesson13\bin\Debug\Lesson13.pdb
+C:\Users\Anna\Desktop\Lesson13\Lesson13\Lesson13\obj\Debug\Lesson13.exe
+C:\Users\Anna\Desktop\Lesson13\Lesson13\Lesson13\obj\Debug\Lesson13.pdb
